@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <string-array name="conversions">
+      <item>Acres to Square Miles</item>
+      <item>Atmospheres to Pascals</item>
+      <item>Bars to Pascals</item>
+      <item>Degrees Celsius to Degrees Fahrenheit</item>
+      <item>Degrees Fahrenheit to Degrees Celsius</item>
+      <item>Dynes to Newtons</item>
+      <item>Feet/Second to Metres/Second</item>
+      <item>Fluid Ounces (UK) to Litres</item>
+      <item>Fluid Ounces (US) to Litres</item>
+      <item>Horsepower (electric) to Watts</item>
+      <item>Horsepower (metric) to Watts</item>
+      <item>Kilograms to Tons (UK or long)</item>
+      <item>Kilograms to Tons (US or short)</item>
+      <item>Litres to Fluid ounces (UK)</item>
+      <item>Litres to Fluid ounces (US)</item>
+      <item>Mach Number to Metres/Second</item>
+      <item>Metres/Second to Feet/Second</item>
+      <item>Metres/Second to Mach Number</item>
+      <item>Miles/Gallon (UK) to Miles/Gallon (US)</item>
+      <item>Miles/Gallon (US) to Miles/Gallon (UK)</item>
+      <item>Newtons to Dynes</item>
+      <item>Pascals to Atmospheres</item>
+      <item>Pascals to Bars</item>
+      <item>Square Miles to Acres</item>
+      <item>Tons (UK or long) to Kilograms</item>
+      <item>Tons (US or short) to Kilograms</item>
+      <item>Watts to Horsepower (electric)</item>
+      <item>Watts to Horsepower (metric)</item>
+   </string-array>
+</resources>
